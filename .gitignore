@@ -1,0 +1,4 @@
+
+*.RData
+*.Rhistory
+jupyterNotebooks/.ipynb_checkpoints
